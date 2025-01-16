@@ -1,4 +1,7 @@
 # Trabalho 1 AED 2024-2025
+# NOTA: 19.6
+## Relatório: 20.0
+## Código: 19.5
 
 Este é o código-fonte para o primeiro projeto de AED 2024-2025.
 
